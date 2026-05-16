@@ -1,5 +1,13 @@
-<h1><a href="https://www.daiski.dev" target="_blank">DAI-SKI</a></h1>
-# Hi, I'm ADO 👋
+<table width="100%" border="0">
+  <tr>
+    <td align="left" border="0">
+      <h1>Hi, I'm ADO </h1>
+    </td>
+    <td align="right" border="0">
+      <h1><a href="https://www.daiski.dev" target="_blank">DAI-SKI</a></h1>
+    </td>
+  </tr>
+</table>
 
 I work at the intersection of advanced AI research, full-stack web development, and workflow automation. I bridge the gap between complex academic concepts and practical, scalable business solutions.
 
@@ -7,7 +15,7 @@ I work at the intersection of advanced AI research, full-stack web development, 
 
 ## Technical Toolbox
 
-**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI & Research** ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white) ![Synthetic Data](https://img.shields.io/badge/Synthetic_Data-007ACC?style=for-the-badge) ![Explainable AI (XAI)](https://img.shields.io/badge/Explainable_AI_(XAI)-7B121C?style=for-the-badge)
 
@@ -18,7 +26,7 @@ I work at the intersection of advanced AI research, full-stack web development, 
 ## 🚀 What I Do
 
 * **Full-Stack Development:** Building end-to-end web projects with a sharp eye for clean code, precise aesthetic design (Frontend UI/UX), deployment, and robust Cloudflare hosting infrastructure.
-* **Business Automation:** Designing and deploying automated marketing and operational pipelines (integrating WhatsApp & Instagram Business APIs via n8n) for brands like *Manogna Naturals*.
+* **Business Automation:** Designing and deploying automated marketing and operational pipelines (integrating WhatsApp & Instagram Business APIs via n8n) 
 
 ---
 
