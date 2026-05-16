@@ -1,4 +1,4 @@
-# Hi there, I'm a Researcher & Full-Stack Developer 👋
+# Hi I'm ADO
 
 Working at the intersection of advanced AI research, full-stack web development, and workflow automation. I bridge the gap between complex academic concepts and practical, scalable business solutions.
 
