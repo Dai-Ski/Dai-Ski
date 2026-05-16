@@ -1,7 +1,4 @@
-<div align="right">
-  <h1><a href="https://www.daiski.dev" target="_blank">DAI-SKI</a></h1>
-</div>
-
+<h1><a href="https://www.daiski.dev" target="_blank">DAI-SKI</a></h1>
 # Hi, I'm ADO 👋
 
 I work at the intersection of advanced AI research, full-stack web development, and workflow automation. I bridge the gap between complex academic concepts and practical, scalable business solutions.
