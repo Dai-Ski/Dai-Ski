@@ -1,35 +1,34 @@
-# Hi I'm ADO
+# Hi, I'm ADO 👋
 
-Working at the intersection of advanced AI research, full-stack web development, and workflow automation. I bridge the gap between complex academic concepts and practical, scalable business solutions.
+I work at the intersection of advanced AI research, full-stack web development, and workflow automation. I bridge the gap between complex academic concepts and practical, scalable business solutions.
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolbox
 
-*   **Languages:** Python, JavaScript, HTML, CSS
-*   **AI & Research:** Computer Vision, Synthetic Data Generation, Explainable AI (XAI)
-*   **Web & DevOps:** Cloudflare, Frontend UI/UX Customization, Deployment & Hosting
-*   **Automation:** n8n, WhatsApp & Instagram Business API Integrations
+**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & Research** ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white) ![Synthetic Data](https://img.shields.io/badge/Synthetic_Data-007ACC?style=for-the-badge) ![Explainable AI (XAI)](https://img.shields.io/badge/Explainable_AI_(XAI)-7B121C?style=for-the-badge)
+
+**Web, DevOps & Automation** ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4A5A?style=for-the-badge&logo=n8n&logoColor=white) ![Meta APIs](https://img.shields.io/badge/WhatsApp_&_Instagram_APIs-0066FF?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
 ## 🚀 What I Do
 
-*   **Full-Stack Development:** Building end-to-end web projects with a sharp eye for clean code, precise aesthetic design, and robust deployment infrastructure.
-*   **Business Automation:** Designing and deploying automated marketing and operational pipelines for brands like *Manogna Naturals*.
+* **Full-Stack Development:** Building end-to-end web projects with a sharp eye for clean code, precise aesthetic design (Frontend UI/UX), deployment, and robust Cloudflare hosting infrastructure.
+* **Business Automation:** Designing and deploying automated marketing and operational pipelines (integrating WhatsApp & Instagram Business APIs via n8n) for brands like *Manogna Naturals*.
 
 ---
 
 ## 🎯 My Goal
 
-Seamlessly blend AI research with full-stack engineering to ship impactful, automated products.
+To seamlessly blend AI research with full-stack engineering to ship impactful, automated products.
 
 ---
 
 ## 📫 Connect With Me
 
-*   **LinkedIn:** [linkedin.com/in/daiski](https://www.linkedin.com/in/daiski)
-*   **Telegram:** [@dai_ski](https://t.me/dai_ski)
-*   **Email:** [ado@daiski.dev](mailto:ado@daiski.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiski) [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dai_ski) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ado@daiski.dev)
 
-Feel free to explore my repositories or reach out for collaborations in Web Dev, or Automation!
+Feel free to explore my repositories or reach out for collaborations in Web Dev or Automation!
