@@ -1,6 +1,6 @@
 # Hi, I'm ADO 👋
 
-I work at the intersection of advanced AI research, full-stack web development, and workflow automation. 
+I work at the intersection of advanced AI research, full-stack web development, and workflow automation.
 I bridge the gap between complex academic concepts and practical, scalable business solutions.
 
 ## Technical Toolbox
