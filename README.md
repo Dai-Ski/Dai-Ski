@@ -11,16 +11,16 @@ I bridge the gap between complex academic concepts and practical, scalable busin
 
 **Web & DevOps** ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🚀 What I Do
+## What I Do
 
 * **Full-Stack Development:** Building end-to-end web projects with a sharp eye for clean code, precise aesthetic design (Frontend UI/UX), deployment, and robust Cloudflare hosting infrastructure.
 * **Business Automation:** Designing and deploying automated marketing and operational pipelines (integrating WhatsApp & Instagram Business APIs via n8n).
 
-## 🎯 My Goal
+## My Goal
 
 To seamlessly blend AI research with full-stack engineering to ship impactful, automated products.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiski) [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dai_ski) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ado@daiski.dev)
 
